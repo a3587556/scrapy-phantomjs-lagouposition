@@ -1,4 +1,7 @@
 # scrapy-phantomjs-lagouposition
+
+Use scrapy crawl lagou postions then store data in mongodb.
+
 Use python3
 
 Reqirement:
